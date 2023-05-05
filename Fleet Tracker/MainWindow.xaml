@@ -1,0 +1,14 @@
+﻿<Window x:Class="Fleet_Tracker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Fleet_Tracker"
+        mc:Ignorable="d"
+        Title="Fleet Tracking System" Height="580" Width="800" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Background="#FF8CA49E" Icon="semi.png">
+    <Grid>
+        <Frame x:Name="Frame" Content="" HorizontalAlignment="Left" Height="483" VerticalAlignment="Top" Width="794" NavigationUIVisibility="Hidden"/>
+        <Button x:Name="btnSignOut" Content="Log out" HorizontalAlignment="Left" Margin="672,503,0,0" VerticalAlignment="Top" Width="74" FontWeight="Bold" Click="btnSignOut_Click"/>
+
+    </Grid>
+</Window>

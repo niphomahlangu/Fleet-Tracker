@@ -1,0 +1,35 @@
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\bin\Debug\Fleet Tracker.exe.config
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\bin\Debug\Fleet Tracker.exe
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\bin\Debug\Fleet Tracker.pdb
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\HomeScreen.g.cs
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\MainWindow.g.cs
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\App.g.cs
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\Fleet Tracker_MarkupCompile.cache
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\Fleet Tracker_MarkupCompile.lref
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\HomeScreen.baml
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\MainWindow.baml
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\Fleet Tracker.g.resources
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\Fleet_Tracker.Properties.Resources.resources
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\Fleet Tracker.csproj.GenerateResource.cache
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\Fleet Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\Fleet Tracker.exe
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\Fleet Tracker.pdb
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\VehicleManager.g.cs
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\VehicleManager.baml
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\VehicleServices.g.cs
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\VehicleServices.baml
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\TripManager.g.cs
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\TripManager.baml
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\Timesheets.g.cs
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\Timesheets.baml
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\UserAccess.g.cs
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\UserAccess.baml
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\bin\Debug\FTS_DB.mdf
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\bin\Debug\FTS_DB_log.ldf
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\SignUp.g.cs
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\Fleet Tracker_Content.g.cs
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\SignUp.baml
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\ServiceUpdate.g.cs
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\ServiceUpdate.baml
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\Fleet Tracker.csproj.AssemblyReference.cache
+C:\Users\Nipho Mahlangu\source\repos\Fleet Tracker\Fleet Tracker\obj\Debug\Fleet Tracker.csproj.SuggestedBindingRedirects.cache
